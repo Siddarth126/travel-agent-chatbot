@@ -1,6 +1,6 @@
 # 🧳 Travel Agent Chatbot – IBM Watsonx.ai
 
-[Chatbot Preview](https://github.com/Siddarth126/travel-agent-chatbot/blob/main/WhatsApp%20Image%202025-08-04%20at%2023.36.50.png?raw=true)
+![Chatbot Preview](https://github.com/Siddarth126/travel-agent-chatbot/blob/main/WhatsApp%20Image%202025-08-04%20at%2023.36.50.png?raw=true)
 
 
 This is an AI-powered Travel Agent chatbot built using **IBM Watson Assistant** and **Watsonx.ai**. It helps users get instant answers to travel-related queries like:
